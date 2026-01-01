@@ -1,9 +1,12 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 #  // P̳r̳a̳s̳a̳n̳t̳h̳ R̳a̳n̳g̳a̳n̳
 
-$GTK_THEME=CustomTheme
-$ICON_THEME = Tela-circle-dracula
+$GTK_THEME = Orchis-Dark-Compact
+$ICON_THEME = Tela-circle-dark
 $COLOR_SCHEME = prefer-dark
+$CURSOR_THEME = Bibata-Modern-Ice
+$FONT_THEME = 0xProto
+
 
 # Optional: The varibles above will be set automatically when the theme is loaded
 # This exec commands will soon be deprecated
