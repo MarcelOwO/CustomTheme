@@ -1,3 +1,3 @@
 # Custom Theme
 
-A simple custom theme for my linux machine based on hyde themes.
+A custom theme I made based on the [this starter by richen604](https://github.com/richen604/hyde-theme-star) for the hyde project.
