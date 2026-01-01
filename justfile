@@ -1,5 +1,5 @@
 cwd := `pwd`
-theme := "MyTheme"
+theme := "CustomTheme"
 
 init:
     #!/usr/bin/env bash
